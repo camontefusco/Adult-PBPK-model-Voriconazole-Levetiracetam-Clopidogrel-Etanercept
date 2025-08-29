@@ -20,6 +20,3 @@ Build adult PBPK models for Voriconazole, Levetiracetam, Clopidogrel, and Etaner
 - `/pk-sim/adult_models/*.pksim5`
 - `/mrgsolve/adult_models/*.R` scripts
 - `/analysis/validation_plots.ipynb` with Predicted vs Observed plots, AFE, % within 2-fold
-
-## EMA Alignment
-Supports **Stage 2.1**: adult PBPK model development and validation.
